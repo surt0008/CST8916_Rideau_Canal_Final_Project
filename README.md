@@ -239,20 +239,6 @@ Example file path:
 | `/api/all` | Debug end
 ---
 
-### 6.7 Azure App Service Deployment
-
-- **Node Version:** `18`  
-- **Environment Variables:**  
-  - `COSMOS_ENDPOINT`  
-  - `COSMOS_KEY`  
-  - `COSMOS_DATABASE`  
-  - `COSMOS_CONTAINER`  
-
-- **Deployment:**  
-  Connected to GitHub CI/CD for automatic deployments.
-
-
-
 ## **7.Setup Instructions**
 
 ### Prerequisites
