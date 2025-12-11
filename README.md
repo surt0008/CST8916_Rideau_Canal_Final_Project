@@ -12,9 +12,6 @@
 - **Web Dashboard:** https://github.com/surt0008/CST8916_RideauCanal_Dashboard  
 
 ---
-## **Video Demonstration Link**
-
-👉 **Insert your video link**
 
 ## **1. Project Description**
 
