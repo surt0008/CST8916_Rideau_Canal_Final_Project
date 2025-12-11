@@ -8,13 +8,13 @@
 
 ##  **Repositories**
 
-- 🔹 **Sensor Simulation:** https://github.com/surt0008/CST8916_RideauCanal_Sensor_Simulation  
-- 🔹 **Web Dashboard:** https://github.com/surt0008/CST8916_RideauCanal_Dashboard  
+- **Sensor Simulation:** https://github.com/surt0008/CST8916_RideauCanal_Sensor_Simulation  
+- **Web Dashboard:** https://github.com/surt0008/CST8916_RideauCanal_Dashboard  
 
 ---
 ## **Video Demonstration Link**
 
-👉 **Insert your video link h**
+👉 **Insert your video link**
 
 ## **1. Project Description**
 
@@ -333,15 +333,15 @@ npm start
 
 To comply with course policy:
 
-### **AI tools used**
+### AI tools used
 - ChatGPT (for debugging help, documentation wording, and diagram structure)
 
-### **AI-generated content**
+### AI-generated content
 - README structure   
 - Some troubleshooting explanations  
 - Narrative/description wording  
 
-### **My own contributions** 
+### My own contributions
 - App Service deployment  
 - Data flow implementation  
 - Repository setup  
@@ -352,3 +352,5 @@ To comply with course policy:
 This project successfully integrates IoT simulation, Azure cloud services, real-time data streaming, and a dynamic web dashboard into a complete monitoring system. By combining Azure IoT Hub, Stream Analytics, Cosmos DB, Blob Storage, and Azure App Service, the solution delivers a full end-to-end pipeline capable of collecting sensor data, processing it, storing it, and visualizing it for real-time decision-making.
 
 Throughout the development process, I gained practical experience with cloud-based architectures, debugging distributed components, and designing reliable data flows. Challenges such as database schema issues, crypto errors, and dashboard integration helped deepen my understanding of troubleshooting and cloud operations. Overall, this project demonstrates how a well-structured IoT pipeline can effectively support real-world use cases such as monitoring ice safety conditions on the Rideau Canal.
+
+---
